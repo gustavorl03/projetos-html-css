@@ -19,12 +19,14 @@ práticas de organização, semântica, responsividade e versionamento com Git.
 - Acessibilidade
 
 ### CSS
+- Fundamentos do CSS
 - Box Model
 - Cores e tipografia
 - Display e position
 - Flexbox
 - Grid Layout
 - Layout responsivo
+- Animações e Transições
 
 ---
 
